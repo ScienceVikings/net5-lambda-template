@@ -1,0 +1,7 @@
+﻿# curl -XPOST "http://localhost:9000/2015-03-31/functions/function/invocations" -d 'hello lambda'
+POST http://localhost:9000/2015-03-31/functions/function/invocations
+Content-Type: application/x-www-form-urlencoded
+
+'hello lambda'
+
+###

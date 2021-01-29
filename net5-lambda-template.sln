@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net5-lambda-template", "net5-lambda-template\net5-lambda-template.csproj", "{D30A57FD-001E-42C6-B48A-CAECBEAFBD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net5-lambda-template.Core", "net5-lambda-template.Core\net5-lambda-template.Core.csproj", "{AE87AE61-0B71-4C1E-A878-4178907F3599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net5-lambda-template.UnitTests", "net5-lambda-template.UnitTests\net5-lambda-template.UnitTests.csproj", "{3F55DDAA-E0BA-4098-A2D1-A44AE6BEBD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30A57FD-001E-42C6-B48A-CAECBEAFBD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30A57FD-001E-42C6-B48A-CAECBEAFBD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30A57FD-001E-42C6-B48A-CAECBEAFBD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30A57FD-001E-42C6-B48A-CAECBEAFBD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE87AE61-0B71-4C1E-A878-4178907F3599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE87AE61-0B71-4C1E-A878-4178907F3599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE87AE61-0B71-4C1E-A878-4178907F3599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE87AE61-0B71-4C1E-A878-4178907F3599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F55DDAA-E0BA-4098-A2D1-A44AE6BEBD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F55DDAA-E0BA-4098-A2D1-A44AE6BEBD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F55DDAA-E0BA-4098-A2D1-A44AE6BEBD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F55DDAA-E0BA-4098-A2D1-A44AE6BEBD01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
